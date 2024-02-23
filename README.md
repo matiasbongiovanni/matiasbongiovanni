@@ -5,7 +5,7 @@
 
 - 🌱 I'm improving my skills **React and Typescript.**
 
-- 👨‍💻 All of my projects are available at (matiasbongiovanni.vercel.app)
+- 👨‍💻 All of my projects are available at [my portfolio](https://github.io)
 
 - 📫 My contact **matiasweschta@gmail.com**
 
